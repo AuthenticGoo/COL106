@@ -1,3 +1,3 @@
 # COL106
 
-COL106 assignments in Java.
+Data Structures assignments in Java.
